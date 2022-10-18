@@ -28,7 +28,7 @@ body {
 
 .Container {
   max-width: 1110px;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -170,7 +170,7 @@ header {
   height: 23vh;
   text-align: center;
   position: relative;
-  top: 3rem;
+  top:6rem;
   background-color: var(--Very-Pale-Cyan);
 }
 
@@ -273,10 +273,10 @@ header {
   color: white;
   font-weight: 400;
 }
-footer {
+.footer{
   background-color: var(--Very-Dark-Cyan);
-}
 
+}
 .blogo {
   padding: 2rem 2rem;
 }
@@ -343,7 +343,7 @@ footer {
   }
   .fix {
     width: 90%;
-    top: 1rem;
+    top: 5rem;
   }
 
   .blogo {
